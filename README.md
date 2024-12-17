@@ -1,4 +1,4 @@
-![WeDrive]("https://drive.google.com/uc?id=13WdCJLei9vsxl3Fl4GsPMjovMYHuwm5l")
+![WeDrive](https://drive.google.com/uc?id=13WdCJLei9vsxl3Fl4GsPMjovMYHuwm5l)
 
 # Getting Started
 
