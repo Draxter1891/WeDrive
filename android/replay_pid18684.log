@@ -1,0 +1,35 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 270 ciObject found
+instanceKlass groovyjarjarantlr4/v4/runtime/atn/PredictionContext
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext <init> (I)V 1024 0 13594 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext calculateHashCode (Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;I)I 1024 0 9769 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext calculateHashCode ([Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;[I)I 4192 47320 5902 0 -1
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext size ()I 0 0 1 0 -1
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext getReturnState (I)I 0 0 1 0 -1
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext getParent (I)Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext; 0 0 1 0 -1
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext addEmptyContext ()Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext; 0 0 1 0 -1
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext addEmptyContext (Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;)Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext; 0 0 1 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext join (Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContextCache;)Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext; 900 2048 23973 0 -1
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext isEmptyLocal (Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;)Z 426 0 7697 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext getChild (I)Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext; 1024 0 7688 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext isEmpty ()Z 0 0 1 0 -1
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext hashCode ()I 722 0 361 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContext equals (Ljava/lang/Object;)Z 0 0 1 0 -1
+ciMethod groovyjarjarantlr4/v4/runtime/atn/SingletonPredictionContext <init> (Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;I)V 1024 0 8770 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/SingletonPredictionContext getParent (I)Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext; 1024 0 36598 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/SingletonPredictionContext getReturnState (I)I 950766 0 326871 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/SingletonPredictionContext size ()I 2010 0 1005 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/SingletonPredictionContext isEmpty ()Z 1912 0 956 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/ArrayPredictionContext <init> ([Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;[I)V 4156 0 4786 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/ArrayPredictionContext getParent (I)Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext; 1024 0 1877 0 128
+ciMethod groovyjarjarantlr4/v4/runtime/atn/ArrayPredictionContext getReturnState (I)I 1480946 0 566398 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/ArrayPredictionContext size ()I 70466 0 21666 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/misc/MurmurHash initialize (I)I 1024 0 143969 0 64
+ciMethod groovyjarjarantlr4/v4/runtime/misc/MurmurHash update (II)I 1024 0 26096 0 96
+ciMethod groovyjarjarantlr4/v4/runtime/misc/MurmurHash update (ILjava/lang/Object;)I 1024 0 239702 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/misc/MurmurHash finish (II)I 1024 0 1953 0 128
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContextCache getAsCached (Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;)Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext; 4604 0 8360 0 0
+ciMethod groovyjarjarantlr4/v4/runtime/atn/PredictionContextCache join (Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext;)Lgroovyjarjarantlr4/v4/runtime/atn/PredictionContext; 4102 0 16113 0 0
+ciMethodData groovyjarjarantlr4/v4/run
